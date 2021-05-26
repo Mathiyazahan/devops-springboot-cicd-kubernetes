@@ -1,0 +1,14 @@
+server:
+  servlet:
+    context-path: /ibm
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  mvc:
+    view:
+      prefix: /
+      suffix: .jsp
+  messages:
+    basename: validation
