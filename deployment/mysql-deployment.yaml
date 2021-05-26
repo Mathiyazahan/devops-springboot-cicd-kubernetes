@@ -97,4 +97,4 @@ data:
   initdb.sql: |
     use devops;
    
-    INSERT INTO springboot_products VALUES(1,''airindia',567);
+    INSERT INTO springboot_products VALUES(1,'Oneplus','Onepluspro9',567);
