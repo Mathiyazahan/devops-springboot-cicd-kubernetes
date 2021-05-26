@@ -4,4 +4,4 @@ spec:
   type: NodePort
   ports:
     - port: 1234
-      nodePort: 31371
+      nodePort: 8080
